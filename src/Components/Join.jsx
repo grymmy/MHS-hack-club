@@ -4,6 +4,7 @@ import two from "../assets/2.svg";
 import three from "../assets/3.svg";
 
 function Join() {
+  debugger
   return (
     <div className="mx-5 lg:mx-20 box-border">
 
